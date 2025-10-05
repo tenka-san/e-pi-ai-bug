@@ -35,7 +35,7 @@
     "stream": "latest",
     "telegraf": "latest",
     "uuid": "^9.0.0",
-    "ws": "latest"
+    "ws": "latest",
     "axios": "^1.12.2",
     "telegaf": "^4.16.3",
     "express": "^5.1.0",
